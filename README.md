@@ -12,7 +12,7 @@
 ![](Image/system_architecture.png)  
   
 ## Class Diagram
-![](Image/design class diagram.png)
+![](Image/design_class_diagram.png)
 
 
 ## Run the Example
